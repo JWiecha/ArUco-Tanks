@@ -17,7 +17,7 @@ Die Treffererkennung erfolgt softwareseitig über eine externe Kamera, Computer 
 - [Zielsetzung](#zielsetzung)
 - [Systemübersicht](#systemübersicht)
 - [Hardwareübersicht](#hardwareübersicht)
-- [Software-& Repository-Struktur](#software--repository-struktur)
+- [Software- & Repository-Struktur](#software--repository-struktur)
 - [Getting Started](#getting-started)
 - [Projektkontext](#projektkontext)
 - [Nützliche Ressourcen](#nützliche-ressourcen)
