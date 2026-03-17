@@ -178,7 +178,6 @@ Im Fokus standen insbesondere die Verknüpfung von:
 
 Mögliche Erweiterungen des Systems:
 
-- robustere Treffererkennung bei Verdeckung
 - mehrere Kameras zur besseren Spielfeldabdeckung
 - autonome Fahrfunktionen
 - Erweiterung auf mehr als zwei Fahrzeuge
