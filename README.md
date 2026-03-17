@@ -76,7 +76,7 @@ Das Spielsystem basiert auf einer **markerbasierten visuellen Objekterkennung**.
 - Kamerakalibrierung zur präziseren Positionsbestimmung
 - Berechnung von Position, Orientierung und Schussrichtung im Kamerabild
 
-## Benötigte Verbindungselemente
+### Benötigte Verbindungselemente
 
 Für den Aufbau werden zusätzlich folgende Schrauben, Muttern und Gewindeeinsätze benötigt:
 
