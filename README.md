@@ -7,7 +7,7 @@ Die Treffererkennung erfolgt softwareseitig über eine externe Kamera, Computer 
 
 
 <p align="center">
-  <img src="docs/images/ArUco-Tank.jpeg" width="600">
+  <img src="docs/images/Seitenansicht2.jpeg" width="500">
 </p>
 
 ---
