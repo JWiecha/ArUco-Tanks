@@ -198,6 +198,12 @@ Mögliche Erweiterungen des Systems:
 
 ---
 
+## Projektteam
+
+- Robert B.
+- Hieu D.
+- Jonas W.
+
 ## Lizenz
 
 Dieses Projekt steht unter der **MIT License**.
