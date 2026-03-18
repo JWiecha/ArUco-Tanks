@@ -136,7 +136,7 @@ Dieses Repository enthält die zentralen Software- und CAD-Dateien des Projekts.
 
 Das zugehörige Git-Repository enthält neben dem Quellcode auch die mechanische Konstruktion, eine Montageanleitung sowie die Notebooks zur Spielumgebung und Kamerakalibrierung.
 
-Die Montageanleitung befindet sich im Ordner docs.
+Die Montageanleitung befindet sich im Ordner [docs](docs).
 
 ### Voraussetzungen
 
